@@ -1,0 +1,28 @@
+{
+  "name": "ts-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atomdevelops/ts-algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atomdevelops/ts-algorithms/issues"
+  },
+  "homepage": "https://github.com/atomdevelops/ts-algorithms#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "vitest": "^0.22.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
